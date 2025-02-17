@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Israel Reyes-Molina"
+# copyright = "Israel Reyes-Molina"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  description = "Personal Website of Israel Reyes-Molina"
+
+[params.author]
+  name = "Israel Reyes-Molina"
+  image = "img/profile.jpg"
+  headline = "MRI Physicist & Data Science Enthusiast "
+  bio = "Data Scientist, MRI Physicist & Coding Adept."
+  links = [
+    { linkedin = "https://linkedin.com/in/israel-reyesmolina" },
+    { researchgate = "https://www.researchgate.net/profile/Israel-Molina-2?ev=hdr_xprf" },
+    { github = "https://github.com/isra-RM" },
+    { orcid = "https://orcid.org/0009-0004-8149-4694" }
+   ]
