@@ -1,6 +1,6 @@
-# [israrm.com](https://www.israrm.com/)
+# [israrm.com](https://israrmwebsite.pages.dev/)
 
 Personal website of Israel Reyes-Molina.
 
-See [israrm.com](https://israrmwebsite.pages.dev//)
+See [israrm.com](https://israrmwebsite.pages.dev/)
 
