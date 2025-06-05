@@ -48,22 +48,22 @@ See all [research projects](/research/).
 
 ## :white_check_mark: Skills 
 
-- MRI Quality Control
 - Quantitative MRI
 - Neuroimaging Analysis
 - Data Wrangling
 - Data Visualization
 - Machine Learning
+- Deep Learning
 
 ### :computer: Software
 
 - Python
 - R 
 - SQL
-- MATLAB
 - LaTex
 - Git/GitHub
-- Visual Studio Code 
+- Visual Studio Code
+- Markdown
 
 ## :speech_balloon: Languages
 
