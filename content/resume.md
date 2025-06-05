@@ -34,7 +34,7 @@ See all [research projects](/research/).
 
 - 2025: **Advanced AI and Deep Learning Course for Magnetic Resonance Image Processing** -- Cuban Centre for Neurosciences
 - 2023: **Writing in the Sciences** -- Coursera (Stanford University)
-- 2023: **Introduccion a Data Science: Programacion Estadistica con R** -- Coursera (Universidad Nacional Autonoma de Mexico)
+- 2023: **Introducción a Data Science: Programación Estadística con R** -- Coursera (Universidad Nacional Autónoma de Mexico)
 - 2023: **MRI Fundamentals** -- Coursera (Korea Advanced Institute of Science and Technology)
 - 2023: **English for Career Development** -- Coursera (University of Pennsylvania)
 - 2023: **Machine Learning** -- Coursera (Stanford University)
