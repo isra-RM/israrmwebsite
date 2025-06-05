@@ -4,7 +4,7 @@ title: Resume
 showTableOfContents: true
 ---
 
-{{< button href="/resume.pdf" target="_self" >}}
+{{< button href="/overalltemplate.pdf" target="_self" >}}
 Download Resume
 {{< /button >}}
 
