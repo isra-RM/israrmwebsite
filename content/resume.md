@@ -48,6 +48,7 @@ See all [research projects](/research/).
 
 ## :white_check_mark: Skills 
 
+- MRI Quality Control
 - Quantitative MRI
 - Neuroimaging Analysis
 - Data Wrangling
