@@ -32,6 +32,7 @@ See all [research projects](/research/).
 
 ## :book: Selected Courses
 
+- 2025: **Advanced AI and Deep Learning Course for Magnetic Resonance Image Processing** -- Cuban Centre for Neurosciences
 - 2023: **Writing in the Sciences** -- Coursera (Stanford University)
 - 2023: **Introduccion a Data Science: Programacion Estadistica con R** -- Coursera (Universidad Nacional Autonoma de Mexico)
 - 2023: **MRI Fundamentals** -- Coursera (Korea Advanced Institute of Science and Technology)
@@ -47,7 +48,6 @@ See all [research projects](/research/).
 
 ## :white_check_mark: Skills 
 
-- MRI Pulse Sequence Design
 - MRI Quality Control
 - Quantitative MRI
 - Neuroimaging Analysis

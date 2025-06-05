@@ -11,7 +11,10 @@ Explore my portfolio projects below, organized by programming language.
 
 ### Python
 
-- [Product Review App](https://github.com/isra-RM/Product-Review-App): A **Streamlit** app which perform sentiment analysis on a ficticious product review dataset. The sentiment analysis is performed using [bert-base-multilingual-uncased-sentiment](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment) from huggingface transformers library
+-[Atrium Segmentation App](https://github.com/isra-RM/Atrium-Segmentation): A **Gradio** app presenting a deep learning solution for automatic segmentation of the left atrium, based on a U-Net architecture implemented in **PyTorch**. The dataset consist of 20 cardiac MRI images and its corresponding left atrium labels from the [Medical Segmentation Decathlon (MSD)](http://www.medicaldecathlon.com/) challenge.
+
+- [Product Review App](https://github.com/isra-RM/Product-Review-App): A **Streamlit** app which perform sentiment analysis on a ficticious product review dataset. The sentiment analysis is performed using [bert-base-multilingual-uncased-sentiment](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment) from huggingface transformers library.
+
 - [US Sales Dashboard](https://israrm.shinyapps.io/us-cities-sales-dashboard/): A **Shiny** dashboard created following Keith Galli's tutorial on Youtube [Build Awesome Web Apps & Dashboards with Python! (Full Shiny for Python Course)](https://www.youtube.com/watch?v=5LG4KffeCgg&t=145s&ab_channel=KeithGalli). 
 
 - [Nobel Prize Dashboard](https://github.com/isra-RM/Nobel-Prize-Dashboard): A simple dashboard created using **Plotly Dash** to uncover some curious facts from the history of Nobel Prize. 

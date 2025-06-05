@@ -10,8 +10,6 @@ layout: "simple"
 - Quantitative MRI Techniques
 - Brain Imaging Biomarkers
 - Neuroimaging Analysis
-- MRI Quality Control
-- MRI Pulse Sequences
 
 
 ## :open_file_folder: Projects
@@ -57,6 +55,7 @@ Targeted MRI contrast enhancement with extraordinarily small CoFe2O4 nanoparticl
 
 ## :calendar: Scientific Events
 
+- **First National Hackathon: Revolucionando por la ciencia** (2025), Havana, Cuba
 - **Quantitative Magnetic Resonance Imaging Conference: Validation of quantitative MRI techniques in neurodegeneration** (2023), Montreal, Canada
 - **Russia and Cuba together for the benefit of Health** (2023). Moscow,Russia
 - **Neurodegeneration mechanisms in Alzheimer's Disease** (2023). Havana, Cuba
