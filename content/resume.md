@@ -20,8 +20,8 @@ Nuclear physicist with 7+ years of experience in MRI research ,data acquisition,
 - 2012: **BSc in Nuclear Physics** -- Applied Science and Technology Institute, Faculty of Nuclear Physics, Havana
 
 ## :wrench: Work Experience
-
 - 2021 -- Present: **2nd Level Neurotechnologist** -- Cuban Centre for Neuroscience, Havana
+- 2025 -- 2025: **Visiting Researcher** -- VUB Brussels University, Brussels
 - 2019 -- 2019: **Visiting Researcher** -- Montreal Neurological Institute and Hospital, Montreal
 - 2014 -- 2021: **Science and Technology Specialist** -- Cuban Centre for Neuroscience, Havana
 - 2012 -- 2014: **Scientific Reserve** -- Cuban Centre for Neuroscience, Havana
@@ -53,8 +53,8 @@ See all [research projects](/research/).
 - Neuroimaging Analysis
 - Data Wrangling
 - Data Visualization
-- Machine Learning
-- Deep Learning
+- Machine Learning and Deep Learning
+- Survival Analysis
 
 ### :computer: Software
 
