@@ -11,6 +11,8 @@ Explore my portfolio projects below, organized by programming language.
 
 ### Python
 
+-[Brain Tumor Segmentation App](https://github.com/isra-RM/Brain-Tumor-Segmentation): An end-to-end deep learning pipeline for brain tumor segmentation developed using the **MONAI** framework and multimodal structural MRI data from the [Brain Tumor Segmentation Challenge 2021](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1). The inference pipeline was containerized using **Docker**. 
+
 - [Atrium Segmentation App](https://github.com/isra-RM/Atrium-Segmentation): A **Gradio** app presenting a deep learning solution for automatic segmentation of the left atrium, based on a U-Net architecture implemented in **PyTorch**. The dataset consist of 20 cardiac MRI images and its corresponding left atrium labels from the [Medical Segmentation Decathlon (MSD)](http://www.medicaldecathlon.com/) challenge.
 
 - [Product Review App](https://github.com/isra-RM/Product-Review-App): A **Streamlit** app which perform sentiment analysis on a ficticious product review dataset. The sentiment analysis is performed using [bert-base-multilingual-uncased-sentiment](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment) from huggingface transformers library.
