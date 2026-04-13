@@ -59,12 +59,14 @@ See all [research projects](/research/).
 ### :computer: Software
 
 - Python
+- MATLAB
 - R 
 - SQL
 - LaTex
 - Git/GitHub
 - Visual Studio Code
 - Markdown
+- Docker
 
 ## :speech_balloon: Languages
 
